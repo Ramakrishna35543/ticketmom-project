@@ -38,6 +38,7 @@ Titan Embeddings v2	Vector embedding generation
 Amazon CloudWatch	Logging and monitoring
 OpenSearch (Production-ready)	Vector search and retrieval
 Project Structure
+
 ticketmom/
 │
 ├── data/
@@ -114,7 +115,7 @@ Open:
 http://localhost:8501
 Installation & Setup
 1. Clone Repository
-git clone https://github.com/your-username/ticketmom-project.git
+git clone https://github.com/Ramakrishna35543/ticketmom-project.git
 cd ticketmom-project
 2. Create Virtual Environment
 python -m venv venv
