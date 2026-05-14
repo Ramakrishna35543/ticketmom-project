@@ -1,0 +1,56 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "event": "Cosmic Ballet",
+    "sentiment": "Neutral",
+    "issue": "Dress Code",
+    "status": "Resolved",
+    "date": "2024-03-15",
+    "content": "Question about dress code and event timing"
+  },
+  {
+    "ticket_id": "T-1002",
+    "event": "Cosmic Ballet",
+    "sentiment": "Positive",
+    "issue": "Feedback",
+    "status": "Open",
+    "date": "2024-03-16",
+    "content": "Amazing performance and lighting"
+  },
+  {
+    "ticket_id": "T-1003",
+    "event": "Neon Nights Rave",
+    "sentiment": "Negative",
+    "issue": "QR Code Scanning",
+    "status": "In Progress",
+    "date": "2024-03-18",
+    "content": "QR code scanning delays at entry"
+  },
+  {
+    "ticket_id": "T-1004",
+    "event": "Neon Nights Rave",
+    "sentiment": "Neutral",
+    "issue": "Lost Item",
+    "status": "Resolved",
+    "date": "2024-03-19",
+    "content": "Lost jacket during event"
+  },
+  {
+    "ticket_id": "T-1005",
+    "event": "Rock Legends Concert",
+    "sentiment": "Positive",
+    "issue": "VIP Access",
+    "status": "Resolved",
+    "date": "2024-03-20",
+    "content": "VIP access worked perfectly, rainy weather"
+  },
+  {
+    "ticket_id": "T-1006",
+    "event": "Vintage Jazz Festival",
+    "sentiment": "Positive",
+    "issue": "Seat Upgrade",
+    "status": "Resolved",
+    "date": "2024-03-21",
+    "content": "Seat upgrade and great acoustic experience"
+  }
+]

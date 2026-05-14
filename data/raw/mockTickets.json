@@ -1,0 +1,68 @@
+[
+  {
+    "ticketId": "T-1001",
+    "customer": "John Doe",
+    "email": "johndoe@example.com",
+    "event": "Cosmic Ballet",
+    "sentiment": "Neutral",
+    "issue": "Question about dress code",
+    "status": "Resolved",
+    "date": "2024-03-15",
+    "content": "I'm looking forward to the Cosmic Ballet! Is there a strict dress code for the event? Also, what time do the doors open?"
+  },
+  {
+    "ticketId": "T-1002",
+    "customer": "Alice Smith",
+    "email": "alice.s@workplace.com",
+    "event": "Cosmic Ballet",
+    "sentiment": "Positive",
+    "issue": "Feedback",
+    "status": "Open",
+    "date": "2024-03-16",
+    "content": "The Cosmic Ballet was absolutely mesmerizing. The lighting and the performance were top-notch. I'll definitely be coming back next year!"
+  },
+  {
+    "ticketId": "T-1003",
+    "customer": "Bob Johnson",
+    "email": "bob.johnson@provider.net",
+    "event": "Neon Nights Rave",
+    "sentiment": "Negative",
+    "issue": "QR Code Scanning",
+    "status": "In Progress",
+    "date": "2024-03-18",
+    "content": "I had a terrible time at the entrance of Neon Nights Rave. My QR code wouldn't scan for nearly 20 minutes, and the staff seemed overwhelmed. This is a common issue I heard others complaining about in line."
+  },
+  {
+    "ticketId": "T-1004",
+    "customer": "Charlie Brown",
+    "email": "c.brown@daily.com",
+    "event": "Neon Nights Rave",
+    "sentiment": "Neutral",
+    "issue": "Lost Item",
+    "status": "Resolved",
+    "date": "2024-03-19",
+    "content": "I lost my jacket during the Neon Nights Rave. Is there a lost and found I can contact? The QR scanning was a bit slow but the music was great."
+  },
+  {
+    "ticketId": "T-1005",
+    "customer": "Diana Rossi",
+    "email": "diana@rossi.it",
+    "event": "Rock Legends Concert",
+    "sentiment": "Positive",
+    "issue": "VIP Access",
+    "status": "Resolved",
+    "date": "2024-03-20",
+    "content": "The Rock Legends Concert was legendary! My VIP access worked perfectly. The weather was a bit rainy, around 65 degrees, but it didn't stop the fun."
+  },
+  {
+    "ticketId": "T-1006",
+    "customer": "Edward Norton",
+    "email": "edward@theatre.org",
+    "event": "Vintage Jazz Festival",
+    "sentiment": "Positive",
+    "issue": "Seat Upgrade",
+    "status": "Resolved",
+    "date": "2024-03-21",
+    "content": "Thank you for the seat upgrade for the Jazz Festival! The acoustic was fantastic. Great experience all around."
+  }
+]

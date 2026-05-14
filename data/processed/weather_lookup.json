@@ -1,0 +1,30 @@
+{
+  "Rock Legends Concert": {
+    "date": "2024-03-20",
+    "location": "Outdoor Arena",
+    "temperature_f": 65,
+    "precipitation_in": 0.2,
+    "conditions": "Mild with light rain"
+  },
+  "Cosmic Ballet": {
+    "date": "2024-03-15",
+    "location": "Grand Opera House",
+    "temperature_f": 72,
+    "precipitation_in": 0.0,
+    "conditions": "Clear and pleasant"
+  },
+  "Neon Nights Rave": {
+    "date": "2024-03-18",
+    "location": "City Night Arena",
+    "temperature_f": 68,
+    "precipitation_in": 0.0,
+    "conditions": "Cloudy night"
+  },
+  "Vintage Jazz Festival": {
+    "date": "2024-03-21",
+    "location": "Downtown Jazz Hall",
+    "temperature_f": 70,
+    "precipitation_in": 0.0,
+    "conditions": "Warm and comfortable"
+  }
+}
