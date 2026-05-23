@@ -38,6 +38,7 @@ Titan Embeddings v2	Vector embedding generation
 Amazon CloudWatch	Logging and monitoring
 OpenSearch (Production-ready)	Vector search and retrieval
 Project Structure
+
 ticketmom/
 │
 ├── data/
@@ -114,7 +115,7 @@ Open:
 http://localhost:8501
 Installation & Setup
 1. Clone Repository
-git clone https://github.com/your-username/ticketmom-project.git
+git clone https://github.com/Ramakrishna35543/ticketmom-project.git
 cd ticketmom-project
 2. Create Virtual Environment
 python -m venv venv
@@ -153,9 +154,14 @@ Add screenshots inside the screenshots/ directory.
 Example:
 
 Streamlit UI
+<img width="1600" height="681" alt="ui-home" src="https://github.com/user-attachments/assets/414c5630-23d5-459f-bfb4-2d3408ac84f7" />
 AWS Bedrock Agent Console
+<img width="1553" height="694" alt="aws-agent-1 - Copy" src="https://github.com/user-attachments/assets/a85952da-05d4-4bc0-bbc2-82c3aa5b108b" />
 Backend evaluation output
+<img width="1552" height="745" alt="backend-test" src="https://github.com/user-attachments/assets/718c670d-d6ac-42ea-8e83-bf8a9aa670c7" />
 MCP tool execution
+<img width="1557" height="696" alt="aws-agent-2" src="https://github.com/user-attachments/assets/732fed46-eec3-4148-b09d-f13f9573cce7" />
+
 Author
 
 RamaKrishna
